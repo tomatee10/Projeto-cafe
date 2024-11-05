@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+
+.product__1{
+margin-top: 3.5rem;
+gap: 2.5rem;
+
+}
+
+ .product__1__foreground{
+    border: 1px solid red;
+    width: 900px;
+    height: 700px;
+    
+}  
+
+.product__1__tittle{
+  margin-top: 10rem;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 7rem;
+  font-weight: 200;
+
+
+}
+
+.product__1__subtittle{
+  color: white;
+  font-size: 1.4rem;
+  padding-left: 40px;
+}
+
+.product__1__background{
+ 
+  object-fit: cover;
+  width: 953px;
+  height: 1348px;
+  z-index: -10;  
+  position: absolute;
+  
+}
+
